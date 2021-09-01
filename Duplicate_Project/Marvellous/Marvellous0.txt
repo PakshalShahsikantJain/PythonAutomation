@@ -1,0 +1,12 @@
+------------------------------------Final Output of This Project------------------------------------
+
+Duplicate Files Names With There Directory Names are : [['Demo\\a.py', 'Demo\\Hello\\c.py'], ['Demo\\b.py', 'Demo\\Hello\\d.py']]
+
+Path Deleted are : Demo\Hello\c.py, Demo\Hello\d.py, 
+
+Total Numbers of Files in Entered Directory were : 4
+
+Number of Files After Deleteing Duplicate Files are : 2
+
+---------------------Thank You For Using This Application Now You Can Check Your Directory--------------------
+Time Taken BY Program is : 60.370314 sec :
